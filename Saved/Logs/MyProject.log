@@ -3405,3 +3405,39 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.02.24-22.41.54:135][738]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Maps/_GENERATED/mferm/Box_66947A60_Auto7
 [2026.02.24-22.41.54:135][738]LogSavePackage: Moving '../../../../../../Users/mferm/Documents/Unreal Projects/Max-sUnrealEngineProj/Saved/Box_66947A60_Auto71CC799624BE0FD45EF6A898CD913C2DD.tmp' to '../../../../../../Users/mferm/Documents/Unreal Projects/Max-sUnrealEngineProj/Saved/Autosaves/Game/ThirdPerson/Maps/_GENERATED/mferm/Box_66947A60_Auto7.uasset'
 [2026.02.24-22.41.54:137][738]LogFileHelpers: Auto-saving content packages took 0.115
+[2026.02.24-22.44.23:404][188]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2026.02.24-22.44.24:493][188]LogSlate: Window 'Save Content' being destroyed
+[2026.02.24-22.44.24:507][188]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.24-22.44.24:544][188]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/JS/1QXCINM9OX52L3CQNX66QH
+[2026.02.24-22.44.24:544][188]LogSavePackage: Moving '../../../../../../Users/mferm/Documents/Unreal Projects/Max-sUnrealEngineProj/Saved/1QXCINM9OX52L3CQNX66QH1FA05B104FAB98B81270039ED09F454B.tmp' to '../../../../../../Users/mferm/Documents/Unreal Projects/Max-sUnrealEngineProj/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/JS/1QXCINM9OX52L3CQNX66QH.uasset'
+[2026.02.24-22.44.24:547][188]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Maps/_GENERATED/mferm/Box_66947A60] ([1] browsable assets)...
+[2026.02.24-22.44.24:547][188]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Maps/_GENERATED/mferm/Box_66947A60]
+[2026.02.24-22.44.24:549][188]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/_GENERATED/mferm/Box_66947A60
+[2026.02.24-22.44.24:549][188]LogSavePackage: Moving '../../../../../../Users/mferm/Documents/Unreal Projects/Max-sUnrealEngineProj/Saved/Box_66947A602D9F59CD4907D3233C6B02AB8D656AE7.tmp' to '../../../../../../Users/mferm/Documents/Unreal Projects/Max-sUnrealEngineProj/Content/ThirdPerson/Maps/_GENERATED/mferm/Box_66947A60.uasset'
+[2026.02.24-22.44.24:553][188]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/R1/TS5OQ5CRUWFZYL1ZQ7I416
+[2026.02.24-22.44.24:553][188]LogSavePackage: Moving '../../../../../../Users/mferm/Documents/Unreal Projects/Max-sUnrealEngineProj/Saved/TS5OQ5CRUWFZYL1ZQ7I4160F07411B401AAF8235763AB051F97221.tmp' to '../../../../../../Users/mferm/Documents/Unreal Projects/Max-sUnrealEngineProj/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/R1/TS5OQ5CRUWFZYL1ZQ7I416.uasset'
+[2026.02.24-22.44.24:557][188]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/Q5/N0DV580XD1HB5NW1OFQD49
+[2026.02.24-22.44.24:557][188]LogSavePackage: Moving '../../../../../../Users/mferm/Documents/Unreal Projects/Max-sUnrealEngineProj/Saved/N0DV580XD1HB5NW1OFQD49B47041624E7D80EF3713A9A3F4223BA6.tmp' to '../../../../../../Users/mferm/Documents/Unreal Projects/Max-sUnrealEngineProj/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/Q5/N0DV580XD1HB5NW1OFQD49.uasset'
+[2026.02.24-22.44.24:561][188]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/MX/TFKLUAGAKY80D0AYQX7F3N
+[2026.02.24-22.44.24:561][188]LogSavePackage: Moving '../../../../../../Users/mferm/Documents/Unreal Projects/Max-sUnrealEngineProj/Saved/TFKLUAGAKY80D0AYQX7F3NFA7A3B9A47E3BEDAFDC7E89E87823E46.tmp' to '../../../../../../Users/mferm/Documents/Unreal Projects/Max-sUnrealEngineProj/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/MX/TFKLUAGAKY80D0AYQX7F3N.uasset'
+[2026.02.24-22.44.24:564][188]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/21/WE64QHRBFMVZPGY150BRNV
+[2026.02.24-22.44.24:564][188]LogSavePackage: Moving '../../../../../../Users/mferm/Documents/Unreal Projects/Max-sUnrealEngineProj/Saved/WE64QHRBFMVZPGY150BRNV3B8FE63D442241D68D5F13BEACDFFAEE.tmp' to '../../../../../../Users/mferm/Documents/Unreal Projects/Max-sUnrealEngineProj/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/21/WE64QHRBFMVZPGY150BRNV.uasset'
+[2026.02.24-22.44.24:567][188]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/SG/E9AEM80XETYUKU50LPXYO3
+[2026.02.24-22.44.24:567][188]LogSavePackage: Moving '../../../../../../Users/mferm/Documents/Unreal Projects/Max-sUnrealEngineProj/Saved/E9AEM80XETYUKU50LPXYO3ADDE8601478B3C563A71B3BEC927756C.tmp' to '../../../../../../Users/mferm/Documents/Unreal Projects/Max-sUnrealEngineProj/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/SG/E9AEM80XETYUKU50LPXYO3.uasset'
+[2026.02.24-22.44.24:571][188]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/0W/ZRCONCODQLKXCE7PEIY7R2
+[2026.02.24-22.44.24:571][188]LogSavePackage: Moving '../../../../../../Users/mferm/Documents/Unreal Projects/Max-sUnrealEngineProj/Saved/ZRCONCODQLKXCE7PEIY7R2BC6A81254A26CE40C590748BF0B5DDF4.tmp' to '../../../../../../Users/mferm/Documents/Unreal Projects/Max-sUnrealEngineProj/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/0W/ZRCONCODQLKXCE7PEIY7R2.uasset'
+[2026.02.24-22.44.24:575][188]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/GH/XPO43F048TTQDO4UFUV3XO
+[2026.02.24-22.44.24:575][188]LogSavePackage: Moving '../../../../../../Users/mferm/Documents/Unreal Projects/Max-sUnrealEngineProj/Saved/XPO43F048TTQDO4UFUV3XO52B578AE49A6ECD63070A089A60041FD.tmp' to '../../../../../../Users/mferm/Documents/Unreal Projects/Max-sUnrealEngineProj/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/GH/XPO43F048TTQDO4UFUV3XO.uasset'
+[2026.02.24-22.44.24:578][188]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/KO/R1YBVU6A5YPMI3HL3V0RL6
+[2026.02.24-22.44.24:579][188]LogSavePackage: Moving '../../../../../../Users/mferm/Documents/Unreal Projects/Max-sUnrealEngineProj/Saved/R1YBVU6A5YPMI3HL3V0RL6B87C821F4C3ACF2109F69187B1B732CA.tmp' to '../../../../../../Users/mferm/Documents/Unreal Projects/Max-sUnrealEngineProj/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/KO/R1YBVU6A5YPMI3HL3V0RL6.uasset'
+[2026.02.24-22.44.24:607][188]LogFileHelpers: InternalPromptForCheckoutAndSave took 100.090 ms (total: 985.575 ms)
+[2026.02.24-22.44.24:646][188]LogContentValidation: Display: Starting to validate 10 assets
+[2026.02.24-22.44.24:646][188]LogContentValidation: Enabled validators:
+[2026.02.24-22.44.24:646][188]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.24-22.44.24:646][188]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.24-22.44.24:646][188]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.24-22.44.24:646][188]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.24-22.44.24:646][188]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.24-22.44.24:646][188]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.24-22.44.24:646][188]AssetCheck: /Game/ThirdPerson/Maps/_GENERATED/mferm/Box_66947A60 Validating asset
+[2026.02.24-22.44.24:647][188]AssetCheck: /Game/ThirdPerson/Maps/ThirdPersonMap Validating asset
