@@ -1,2 +1,3 @@
-2026/02/28-17:32:52.773 21e8 Creating DB C:\Users\Max\Documents\GitHub\Max-sUnrealEngineProj\Saved\webcache_6613_2\Default\Local Storage\leveldb since it was missing.
-2026/02/28-17:32:52.788 21e8 Reusing MANIFEST C:\Users\Max\Documents\GitHub\Max-sUnrealEngineProj\Saved\webcache_6613_2\Default\Local Storage\leveldb/MANIFEST-000001
+2026/03/05-00:00:29.803 7984 Reusing MANIFEST C:\Users\Max\Documents\GitHub\Max-sUnrealEngineProj\Saved\webcache_6613_2\Default\Local Storage\leveldb/MANIFEST-000001
+2026/03/05-00:00:29.831 7984 Recovering log #3
+2026/03/05-00:00:29.834 7984 Reusing old log C:\Users\Max\Documents\GitHub\Max-sUnrealEngineProj\Saved\webcache_6613_2\Default\Local Storage\leveldb/000003.log 
